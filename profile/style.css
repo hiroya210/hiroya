@@ -108,7 +108,9 @@ a:hover{
     color: rgb(0,119,176);
 }
 
-
+#project-list{
+    font-size: 12px;
+}
 
 small{
     font-size: 18px;
